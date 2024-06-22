@@ -16,6 +16,7 @@ Analyzing traffic accident data to identify patterns related to road conditions,
   - [Accidents by Road Condition and Timing of Day](#accidents-by-road-condition-and-timing-of-day)
   - [Accidents by Contributing Factors](#accidents-by-contributing-factors)
   - [State-wise Total Deaths Ratio by Timing of Day](#state-wise-total-deaths-ratio-by-timing-of-day)
+- [Contact](#contact)   
 
 ## Introduction
 This project aims to analyze traffic accident data and provide insights based on various factors. The analysis includes visualizations to help understand patterns and contributing factors to traffic accidents.
@@ -159,3 +160,6 @@ plt.xticks(rotation=90)
 plt.legend(title='Timing of Day', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.show()
 ```
+### Contact
+For more information or to get in touch, please visit my LinkedIn profile.
+https://www.linkedin.com/in/vaidehi-kale-b635b7264/
